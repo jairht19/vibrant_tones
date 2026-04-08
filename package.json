@@ -1,0 +1,41 @@
+{
+  "name": "vibrant-tones",
+  "version": "0.0.1",
+  "description": "A vibrant light and dark theme for VS Code",
+  "homepage": "https://github.com/jairht19/vibrant_tones#readme",
+  "bugs": {
+    "url": "https://github.com/jairht19/vibrant_tones/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jairht19/vibrant_tones.git"
+  },
+  "license": "MIT",
+  "author": "jhezt",
+  "directories": {
+    "doc": "docs"
+  },
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "displayName": "Vibrant Tones",
+  "publisher": "jhezt",
+  "icon": "img/icon.png",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Vibrant Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vibrant-dark-color-theme.json"
+      },
+      {
+        "label": "Vibrant Light",
+        "uiTheme": "vs",
+        "path": "./themes/vibrant-light-color-theme.json"
+      }
+    ]
+  }
+}
