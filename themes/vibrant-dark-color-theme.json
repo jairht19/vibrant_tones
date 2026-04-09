@@ -1,6 +1,7 @@
 {
   "name": "Vibrant Dark",
   "type": "dark",
+  "semanticHighlighting": true,
   "colors": {
     "focusBorder": "#277da1",
     "foreground": "#e9ecef",

@@ -2,6 +2,10 @@
 
 A beautiful, vibrant light and dark theme for Visual Studio Code, inspired by the Inti color palette.
 
+![Vibrant Dark Preview](img/screenshot_dark.png)
+![Vibrant Light Preview](img/screenshot_light.png)
+
+
 ## Installation
 
 1. Open **Extensions** sidebar panel in Visual Studio Code. `View → Extensions`

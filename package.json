@@ -24,6 +24,18 @@
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "theme",
+    "color-theme",
+    "vibrant",
+    "dark",
+    "light",
+    "inti"
+  ],
+  "galleryBanner": {
+    "color": "#0d1117",
+    "theme": "dark"
+  },
   "contributes": {
     "themes": [
       {

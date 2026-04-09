@@ -1,6 +1,7 @@
 {
   "name": "Vibrant Light",
   "type": "light",
+  "semanticHighlighting": true,
   "colors": {
     "focusBorder": "#277da1",
     "foreground": "#343a40",
