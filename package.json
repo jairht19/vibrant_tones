@@ -47,6 +47,11 @@
         "label": "Vibrant Light",
         "uiTheme": "vs",
         "path": "./themes/vibrant-light-color-theme.json"
+      },
+      {
+        "label": "Vibrant Spectrum",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vibrant-spectrum-color-theme.json"
       }
     ]
   }

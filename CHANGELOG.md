@@ -9,3 +9,4 @@ All notable changes to the "Vibrant Tones" extension will be documented in this 
 ## [Unreleased]
 - Added `keywords` and `galleryBanner` to `package.json` for better marketplace presence.
 - Enabled `semanticHighlighting` in both Light and Dark themes for more precise syntax coloring powered by language servers.
+- **New Theme Variant:** Added `Vibrant Spectrum` to provide an ergonomic dark background based on Monokai Pro (Filter Spectrum) while using balanced vibrant accents.
